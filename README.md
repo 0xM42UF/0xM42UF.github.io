@@ -20,9 +20,3 @@
 
 
 
-<h3 align="center">A passionate frontend developer from CY83R T3CHF00R</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
